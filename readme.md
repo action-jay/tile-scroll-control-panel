@@ -3,9 +3,9 @@ These json files can be imported as Tile Templates in Monk's Active Tile Trigger
 
 Required Modules:
 
-- Tile Scroll
-- Monk's Active Tile Triggers
-- Tagger
+- Tile Scroll - https://github.com/theripper93/tile-scroll
+- Monk's Active Tile Triggers - https://github.com/ironmonk88/monks-active-tiles/
+- Tagger - https://github.com/fantasycalendar/FoundryVTT-Tagger
 
 
 Setup:
